@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5ea9be1f8602b8647b8de6a6dfeb9065
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rogersan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53e18671172c99b45be4f0a8e5844a22, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
